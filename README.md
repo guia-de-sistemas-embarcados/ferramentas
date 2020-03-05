@@ -17,7 +17,7 @@ Ferramentas de software
  - [Crank Storyboard Suite](https://www.cranksoftware.com/storyboard-suite)
  - [Embedded Wizard](https://www.embedded-wizard.de/)
  - [emWin](https://www.segger.com/products/user-interface/emwin/) - emWin é paga, mas a ST licenciou para uso em núcleos STM32 sem custo. Veja aqui: https://www.st.com/en/embedded-software/stemwin.html
- - [GUIX STUDIO] (https://rtos.com/solutions/guix-studio/embedded-ui-design-tool/) - Renesas oferece versão gratuita para desta ferramenta para linha Synergy. Veja aqui: https://www.renesas.com/eu/en/products/synergy/software/tools/guix-studio.html
+ - [GUIX STUDIO](https://rtos.com/solutions/guix-studio/embedded-ui-design-tool/) - Renesas oferece versão gratuita para desta ferramenta para linha Synergy. Veja aqui: https://www.renesas.com/eu/en/products/synergy/software/tools/guix-studio.html
  - [Lvgl](https://littlevgl.com/)
  - [MicroEJ Studio](https://microej.nxp.com/)
  - [PEG - NXP](www.nxp.com/peg)
