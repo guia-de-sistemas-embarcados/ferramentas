@@ -9,9 +9,10 @@ Ferramentas de software
 ## Bootloaders
  - [Barebox](https://barebox.org/)
  - [MCUboot](https://juullabs-oss.github.io/mcuboot/)
+ - [OpenBLT](https://www.feaser.com/openblt/doku.php)
+ - [Slim Bootloader](https://slimbootloader.github.io/)
  - [µMon](http://www.umonfw.com/)
  - [uTasker bootloader](https://www.utasker.com/)
- - [OpenBLT](https://www.feaser.com/openblt/doku.php)
  
  ## GUI
  - [Crank Storyboard Suite](https://www.cranksoftware.com/storyboard-suite)
