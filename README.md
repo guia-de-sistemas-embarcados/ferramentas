@@ -27,6 +27,17 @@ Ferramentas de software
  - [uGFX](https://ugfx.io/)
  - [uGUI](https://embeddedlightning.com/ugui/) 
 
+## PCB
+ - [Altium Designer](https://www.altium.com/altium-designer/)
+ - [Circuit Studio](https://www.altium.com/circuitstudio/)
+ - [Circuit Maker](https://www.altium.com/circuitmaker/overview)
+ - [Kicad EDA](https://kicad-pcb.org/)
+
+## RTOS
+ - [On Time](http://www.on-time.com/)
+ - [Sciopta](https://www.sciopta.com/wip/)
+ 
+
 ## Terminal
 - [Docklight](https://docklight.de/)
 - [Hercules SETUP utility](https://www.hw-group.com/software/hercules-setup-utility)
@@ -39,9 +50,4 @@ Ferramentas de software
 - [Termite](https://www.compuphase.com/software_termite.htm)
 - [YAT](https://sourceforge.net/projects/y-a-terminal/)
 
-## PCB
- - [Altium Designer](https://www.altium.com/altium-designer/)
- - [Circuit Studio](https://www.altium.com/circuitstudio/)
- - [Circuit Maker](https://www.altium.com/circuitmaker/overview)
- - [Kicad EDA](https://kicad-pcb.org/)
 
